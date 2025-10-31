@@ -9,7 +9,7 @@ All data is stored dynamically using linked lists, making the system flexible an
 ## ✅ Features
 
 - Add Student  
-- Save Batch-wise Files (e.g., `batch_CS01.txt`)  
+- Save Batch-wise Files 
 - Search by:
   - Join Date
   - Birth Date
